@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1fb0c59-af7b-4d4f-b3eb-144d57c13808" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/front-end/customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/customer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/js/customer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +189,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692716223977</updated>
-      <workItem from="1692716225119" duration="3530000" />
+      <workItem from="1692716225119" duration="3951000" />
     </task>
     <servers />
   </component>
