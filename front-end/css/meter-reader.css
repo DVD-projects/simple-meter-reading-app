@@ -1,0 +1,11 @@
+#container{
+    width: 60%;
+}
+
+#btn-back a{
+    color: white;
+}
+
+#container button{
+    width: 150px;
+}
